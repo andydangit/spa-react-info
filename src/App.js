@@ -1,9 +1,11 @@
-
+import Main from "./components/Main";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="App">
-      <h1> Single Page Application React information </h1>
+    <div className="container">
+      <Navbar />
+      <Main />
     </div>
   );
 }
