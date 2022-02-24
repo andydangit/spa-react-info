@@ -1,6 +1,7 @@
 body {
     background-color: #282d35;
-    color: #fff
+    color: #fff;
+    background-image: url("../image/reactBackgrounds.jpg");
 }
 
 main {
